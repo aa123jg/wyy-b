@@ -1165,7 +1165,7 @@
     "lives": [
       
            {"name":"live",
-               "type":0,"url":"https://5141.kstore.space/wyy-a/lives/live直播.txt",
+               "type":0,"url":"https://5141.kstore.space/wyy-a/lives/我的直播.txt",
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
                "logo":"https://epg.112114.xyz/logo/{name}.png"
             },                    
