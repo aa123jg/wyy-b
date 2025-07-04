@@ -1164,7 +1164,7 @@
     ],
     "lives": [
       
-           {"name":"live",
+           {"name":"我的直播",
                "type":0,"url":"https://5141.kstore.space/wyy-a/lives/我的直播.txt",
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
                "logo":"https://epg.112114.xyz/logo/{name}.png"
